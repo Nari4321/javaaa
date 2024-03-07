@@ -2,7 +2,7 @@
 
 TOMCAT_HOME=/Users/michaelwechner/local/apache-tomcat-8.0.26
 
-echo "INFO: Build 'Hello World' webapp ..."
+echo "INFO: Build 'Hello Nari' webapp ..."
 mvn clean install -Dmaven.test.skip=true
 #mvn clean install
 #mvn -X clean install
